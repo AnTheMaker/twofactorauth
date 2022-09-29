@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+ <loc>https://2fa.directory/cl/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cl/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/int/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/int/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cr/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cr/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/nz/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/nz/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pl/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pl/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/totp.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/tfa.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/hardware.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/proprietary.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/phone.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/regions.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/phone.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/email.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/regions.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/email.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/all.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/sms.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/sms.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/u2f.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/totp.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/hardware.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/u2f.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/all.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/tfa.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v2/proprietary.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/custom-software.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/totp.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/tfa.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/custom-hardware.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/custom-hardware.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/regions.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/email.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/regions.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/call.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/custom-software.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/email.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/all.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/sms.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/sms.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/u2f.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/totp.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/call.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/u2f.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/all.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v3/tfa.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v1/data.json.sig</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api/v1/data.json</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/dk/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/dk/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/se/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/se/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/sg/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/sg/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/about/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/no/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/no/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/bot.md</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/gb/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/gb/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/sk/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/sk/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/in/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/in/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/jp/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/jp/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/notes/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/notes/chase/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/notes/internetbs/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/at/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/at/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/hk/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/hk/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/au/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/au/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ch/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ch/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/es/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/es/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/api.md</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/it/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/it/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/nl/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/nl/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/tw/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/tw/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/mx/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/mx/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ca/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ca/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pe/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pe/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/be/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/be/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/hr/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/hr/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/br/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/br/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/kr/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/kr/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/us/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/us/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pt/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/pt/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/fi/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/fi/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/de/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/de/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cz/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cz/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/fr/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/fr/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/bot/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cn/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/cn/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ie/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ie/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ar/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+<url>
+ <loc>https://2fa.directory/ar/noscript/index.html</loc>
+ <lastmod>2022-09-29</lastmod>
+ <changefreq>daily</changefreq>
+</url>
+</urlset>
